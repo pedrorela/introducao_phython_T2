@@ -1,1 +1,3 @@
-# introducao_phython_T2
+Atividade 02 da disciplina de Introdução ao Phyton.
+
+Link video do youtube:
